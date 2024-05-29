@@ -1,0 +1,122 @@
+body{ background-color: rgb(242, 245, 247);
+h1{text-align:center; font-family: 'Franklin Gothic Medium';}
+font-family: Arial;}
+
+
+div{background-color: rgb(37, 37, 71);color:whitesmoke}
+#box1 {
+width: 400px;
+height: 600px;
+position: relative;
+
+padding-top: 10px;
+padding-bottom: 50px;
+padding-left: 20px;
+padding-right: 20px;
+}
+
+#box2 {
+    width: 400px;
+    height: 600px;
+    position:fixed;
+    Top: 80px; 
+    left:500px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    }
+
+#box3 {
+        width: 400px;
+        height: 600px;
+        position:fixed;
+        Top: 80px; 
+        left:1000px;
+        padding-top: 10px;
+        padding-bottom: 50px;
+        padding-left: 20px;
+        padding-right: 20px;
+        }
+
+#box4 {
+            width: 350px;
+            height: 600px;
+            position:fixed;
+            Top: 80px; 
+            left:1500px;
+            padding-top: 10px;
+            padding-bottom: 50px;
+            padding-left: 20px;
+            padding-right: 20px;
+            }
+
+h3{color:coral; text-align:center ;}
+
+    
+    
+#An1{
+        position: fixed;  
+    
+          color:rgb(20, 220, 153);
+          font-size: 20px;
+        
+        }
+
+#An2{
+            position: fixed;  
+            padding-top: 30px;
+              color:crimson;
+              font-size: 20px;
+            
+            }
+            
+#An3{
+                position: fixed;  
+                padding-top: 30px;
+                padding-left: 100px;
+                  color:crimson;
+                  font-size: 20px;
+                
+                }
+
+                
+#An4{
+    position: fixed;  
+    padding-top: 30px;
+      color:crimson;
+      font-size: 20px;
+    
+    }
+    
+ 
+
+        
+#An5{
+    position: fixed;  
+    padding-top: 100px;
+      color:crimson;
+      font-size: 20px;
+    
+    }
+
+
+#An6{
+        position: fixed;  
+        padding-top: 30px;
+          color:crimson;
+          font-size: 20px;
+        
+        }
+        
+   
+            
+#An7{
+        position: fixed;  
+        padding-top: 100px;
+          color:crimson;
+          font-size: 20px;
+        
+        }
+
+   
